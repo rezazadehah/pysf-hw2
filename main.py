@@ -13,3 +13,8 @@ def encipher(plaintext, key):
     
 #test
 print (encipher("Hello", 3))
+# Ceasar Cipher Decode part "2"
+
+# Pigpen Cipher Encode part "3"
+# Pigpen Cipher Decode part "4"
+# Choose The Opration "5"
